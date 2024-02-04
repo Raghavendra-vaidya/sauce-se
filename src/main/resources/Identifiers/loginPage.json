@@ -1,0 +1,6 @@
+{
+  "usernameID": "user-name",
+  "passwordID": "password",
+  "loginButtonID": "login-button",
+  "pageCSS": ".login_wrapper"
+}
